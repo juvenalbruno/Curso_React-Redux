@@ -2,7 +2,7 @@
 <h1 align='center'>Projetos Curso React e Redux da Cod3r</h1>
 
 <h3>🔖 Descrição</h3>
-<p>Projetos desenvolvido ao longo do curso de React e Redux da Cod3r.</p>
+<p>Projetos desenvolvido ao longo do curso de <strong>React</strong> e <strong>Redux</strong> da <strong>Cod3r</strong>.</p>
 
 <h3>🚀 Tecnologias</h3>
 <ul>
@@ -29,8 +29,14 @@
 
 </br>
 
-<h3>🖼 Fundamentos</h3>
+<h3>🖼 Fundamentos:</h3>
 <h1></h1>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(1).png">
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(2).png">
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(3).png">
+
+</br>
+
+<h3>🖼 Projeto Calculadora:</h3>
+<h1></h1>
+<img src="./calculadora/assets/imgs/projetoCalculadora.png">
