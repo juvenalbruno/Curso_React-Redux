@@ -28,15 +28,13 @@
     $ npm start
 
 </br>
-
-<h3>🖼 Fundamentos:</h3>
 <h1></h1>
+<h3>🖼 Fundamentos:</h3>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(1).png">
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(2).png">
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(3).png">
 
 </br>
-
-<h3>🖼 Projeto Calculadora:</h3>
 <h1></h1>
+<h3>🖼 Projeto Calculadora:</h3>
 <img src="./calculadora/assets/imgs/projetoCalculadora.png">
