@@ -3,7 +3,6 @@
 
 <h3>🔖 Descrição</h3>
 <p>Projetos desenvolvido ao longo do curso de React e Redux da Cod3r.</p>
-<p>Cada pasta contém uma imagem do que cada arquivo é.</p>
 
 <h3>🚀 Tecnologias</h3>
 <ul>
@@ -27,3 +26,12 @@
     
     # Executar o comando para rodar o projeto web
     $ npm start
+
+
+<h1>🖼 Fundamentos</h1>
+<img src="./fundamentos-react/assets/imgs/FundamentosReact(1).png">
+<br/>
+<img src="./fundamentos-react/assets/imgs/FundamentosReact(2).png">
+<br/>
+<img src="./fundamentos-react/assets/imgs/FundamentosReact(3).png">
+<br/>
