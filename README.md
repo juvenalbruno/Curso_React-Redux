@@ -1,4 +1,4 @@
-<p align='center'><img width='200' src="https://cdn.auth0.com/blog/react-redux/logo.png"></p>
+<p align='center'><img width='200' src="https://miro.medium.com/max/800/1*HBoFpeOTCuIDQMKsSpYN7A.png"></p>
 <h1 align='center'>Projetos Curso React e Redux da Cod3r</h1>
 
 <h3>🔖 Descrição</h3>
