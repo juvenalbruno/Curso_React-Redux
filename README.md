@@ -16,22 +16,23 @@
 <h3>ℹ️ Como usar</h3>
 
     # Clone esse repositório
-    $ git clone 
+    $ git clone https://github.com/juvenalbruno/Curso_React-Redux.git
     
     # Instalar dependências do projeto
     $ npm install
     
-    # Executar o comando para rodar o projeto server
+    # Executar o comando para rodar o projeto server (se houver)
     $ npm run dev
     
     # Executar o comando para rodar o projeto web
     $ npm start
 
+</br>
 
-<h1>🖼 Fundamentos</h1>
+<h3>🖼 Fundamentos</h3>
+<h1></h1>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(1).png">
 <br/>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(2).png">
 <br/>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(3).png">
-<br/>
