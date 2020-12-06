@@ -30,6 +30,8 @@
 </br>
 <h1></h1>
 <h3>🖼 Fundamentos:</h3>
+<p>:pushpin: No bloco de fundamentos, são apresentados os principais fundamentos e funcionalidades do React, juntamente com a aplicação de um pouco de JavaScript e CSS.</p>
+</br>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(1).png">
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(2).png">
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(3).png">
@@ -37,4 +39,6 @@
 </br>
 <h1></h1>
 <h3>🖼 Projeto Calculadora:</h3>
+<p>:pushpin: No projeto Calculadora, são aplicados alguns conceitos de manipulação de funções, componentes e estilização com o css.</p>
+</br>
 <img src="./calculadora/assets/imgs/projetoCalculadora.png">
