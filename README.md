@@ -32,7 +32,5 @@
 <h3>🖼 Fundamentos</h3>
 <h1></h1>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(1).png">
-<br/>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(2).png">
-<br/>
 <img src="./fundamentos-react/assets/imgs/FundamentosReact(3).png">
