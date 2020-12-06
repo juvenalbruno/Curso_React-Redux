@@ -2,7 +2,7 @@
 <h1 align='center'>Projetos Curso React e Redux da Cod3r</h1>
 
 <h3>🔖 Descrição</h3>
-<p>Projeto desenvolvido na semana da #Next Level Week da Rocketseat.</p>
+<p>Projetos desenvolvido ao longo do curso de React e Redux da Cod3r.</p>
 
 <h3>🚀 Tecnologias</h3>
 <ul>
@@ -27,7 +27,12 @@
     # Executar o comando para rodar o projeto web
     $ npm start
 
+<h3>🖼 Fundamentos - React</h3>
+<h4>Projetos e seções</h4>
+<img src="">
+<br/>
+
 <h3>🖼 Layout</h3>
-<h4>Janela inicial</h4>
+<h4></h4>
 <img src="">
 <br/>
