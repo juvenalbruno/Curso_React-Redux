@@ -49,9 +49,6 @@
 <p>:pushpin: No projeto são aplicados alguns conceitos de manipulação de rotas com React Router.</p>
 </br>
 <img src="./navegacao/assets/imgs/inicio.png">
-</br>
 <img src="./navegacao/assets/imgs/param1.png">
-</br>
 <img src="./navegacao/assets/imgs/param2.png">
-</br>
 <img src="./navegacao/assets/imgs/sobre.png">
